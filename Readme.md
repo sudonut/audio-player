@@ -9,4 +9,4 @@ The user should be able to:
 - Pause and play the current song
 - See the current song playing along with the album art (if available) and display the next song that will play
 - Adjust the volume of the music
-- Have a way to navigate to certain points of a song
+- Navigate to certain points of a song
